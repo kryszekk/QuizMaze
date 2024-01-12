@@ -6,3 +6,4 @@ ParentGuid:00000000-0000-0000-0000-000000000000
 /Game/_Main/BP_Crossroads.BP_Crossroads
 /Game/_Main/BP_Direction.BP_Direction
 /Game/_Main/BP_POI_Coin.BP_POI_Coin
+/Game/_Main/BP_POI_Question.BP_POI_Question
